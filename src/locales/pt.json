@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "courses": "Cursos", "about": "Sobre", "testimonials": "Depoimentos",
+    "contact": "Contato", "login": "Entrar", "register": "Começar grátis"
+  },
+  "hero": {
+    "badge": "Projeto de Extensão Universitária",
+    "title1": "Aprenda sem", "title2": "limites",
+    "desc": "Plataforma educacional gratuita com cursos, certificados e comunidade ativa. Transforme sua carreira com conhecimento de qualidade.",
+    "cta1": "Começar Agora — É Grátis", "cta2": "Ver Cursos"
+  },
+  "stats": {
+    "students": "Alunos Ativos", "courses": "Cursos Disponíveis",
+    "satisfaction": "Satisfação", "certs": "Certificados Emitidos"
+  },
+  "catalog": {
+    "badge": "Catálogo", "title": "Cursos disponíveis",
+    "desc": "Explore nossa biblioteca com 27 cursos gratuitos cobrindo as principais áreas do mercado digital.",
+    "seeAll": "Ver todos os cursos", "lessons": "aulas"
+  },
+  "features": {
+    "badge": "Por que escolher a EduLivre",
+    "title": "Tudo que você precisa para aprender"
+  },
+  "about": {
+    "badge": "Projeto de Extensão",
+    "title": "Educação como instrumento de transformação social",
+    "p1": "A EduLivre nasceu da necessidade de democratizar o acesso ao ensino tecnológico no Brasil. Como projeto de extensão universitária, nossa missão é conectar estudantes de todas as regiões ao conhecimento digital que transforma carreiras e vidas.",
+    "p2": "Com metodologia ativa e conteúdo atualizado, buscamos reduzir as desigualdades educacionais e preparar profissionais para o mercado digital em constante evolução.",
+    "check1": "Acesso 100% gratuito para todos os alunos",
+    "check2": "Conteúdo validado por especialistas do mercado",
+    "check3": "Certificados digitais reconhecidos",
+    "check4": "Suporte comunitário ativo e colaborativo"
+  },
+  "testimonials": { "badge": "Depoimentos", "title": "O que dizem nossos alunos" },
+  "cta": {
+    "title": "Pronto para transformar sua carreira?",
+    "desc": "Junte-se a mais de 2.400 alunos que já estão aprendendo com a EduLivre. Crie sua conta gratuitamente e comece hoje mesmo.",
+    "btn1": "Criar conta grátis", "btn2": "Já tenho conta"
+  },
+  "footer": {
+    "desc": "Projeto de Extensão Universitária — Democratizando a Educação Digital",
+    "rights": "Todos os direitos reservados."
+  },
+  "topbar": {
+    "greeting": "Olá", "greetMsg": "— Bom aprendizado hoje! 🚀",
+    "notifications": "Notificações", "markAll": "Marcar todas",
+    "noNotifs": "Sem notificações", "myProfile": "Meu Perfil", "logout": "Sair da conta"
+  },
+  "student": {
+    "nav": {
+      "home": "Início", "courses": "Meus Cursos", "lessons": "Aulas",
+      "progress": "Progresso", "favorites": "Favoritos", "agenda": "Agenda",
+      "forum": "Fórum", "certificates": "Certificados", "profile": "Perfil"
+    },
+    "area": "Área do Aluno",
+    "dashboard": {
+      "title": "Dashboard", "welcome": "Bem-vindo de volta",
+      "continueLearning": "Continuar Aprendendo",
+      "myProgress": "Meu Progresso", "recentActivity": "Atividade Recente",
+      "enrolledCourses": "Cursos Matriculados", "completedCourses": "Cursos Concluídos",
+      "certificates": "Certificados", "studyStreak": "Sequência de Estudos",
+      "days": "dias", "hours": "horas estudadas", "noActivity": "Nenhuma atividade recente"
+    },
+    "courses": {
+      "title": "Meus Cursos", "all": "Todos", "inProgress": "Em andamento",
+      "completed": "Concluídos", "noCourses": "Nenhum curso encontrado",
+      "explore": "Explorar cursos", "continue": "Continuar", "start": "Iniciar",
+      "completed_label": "Concluído", "progress": "progresso"
+    },
+    "lessons": {
+      "title": "Aulas", "selectCourse": "Selecione um curso",
+      "downloadSummary": "Baixar Resumo", "markComplete": "Marcar como concluída",
+      "completed": "Concluída", "noLesson": "Selecione uma aula para começar"
+    },
+    "certificates": {
+      "title": "Meus Certificados", "download": "Baixar Certificado",
+      "noCerts": "Nenhum certificado ainda", "completeCourse": "Conclua um curso para ganhar seu certificado",
+      "issued": "Emitido em", "workload": "Carga horária"
+    },
+    "profile": {
+      "title": "Meu Perfil", "editProfile": "Editar Perfil",
+      "name": "Nome completo", "email": "E-mail", "save": "Salvar alterações"
+    }
+  },
+  "teacher": {
+    "nav": {
+      "dashboard": "Dashboard", "addCourse": "Adicionar Curso",
+      "manage": "Gerenciar Cursos", "materials": "Upload Materiais",
+      "students": "Ver Alunos", "reports": "Relatórios", "profile": "Perfil"
+    },
+    "area": "Painel Professor",
+    "dashboard": {
+      "title": "Dashboard", "totalStudents": "Total de Alunos",
+      "activeCourses": "Cursos Ativos", "totalRevenue": "Avaliação Média",
+      "completionRate": "Taxa de Conclusão", "recentActivity": "Atividade Recente"
+    },
+    "courses": {
+      "title": "Gerenciar Cursos", "addNew": "Adicionar Novo",
+      "edit": "Editar", "delete": "Excluir", "noCourses": "Nenhum curso cadastrado"
+    }
+  },
+  "auth": {
+    "loginTitle": "Entrar na plataforma", "loginSub": "Acesse sua conta de aluno ou professor",
+    "email": "E-mail", "password": "Senha", "forgotPassword": "Esqueci minha senha",
+    "loginBtn": "Entrar", "noAccount": "Não tem conta?", "createFree": "Criar conta grátis",
+    "registerTitle": "Criar conta grátis", "registerSub": "Comece sua jornada de aprendizado",
+    "name": "Nome completo", "confirmPassword": "Confirmar senha",
+    "role": "Sou", "student": "Aluno", "teacher": "Professor",
+    "registerBtn": "Criar conta", "hasAccount": "Já tem conta?", "loginLink": "Entrar",
+    "backHome": "Voltar ao início"
+  },
+  "theme": { "light": "Modo claro", "dark": "Modo escuro" },
+  "lang": { "toggle": "Switch to English" }
+}

@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "courses": "Courses", "about": "About", "testimonials": "Testimonials",
+    "contact": "Contact", "login": "Sign in", "register": "Get started free"
+  },
+  "hero": {
+    "badge": "University Extension Project",
+    "title1": "Learn without", "title2": "limits",
+    "desc": "Free educational platform with courses, certificates and an active community. Transform your career with quality knowledge.",
+    "cta1": "Start Now — It's Free", "cta2": "View Courses"
+  },
+  "stats": {
+    "students": "Active Students", "courses": "Available Courses",
+    "satisfaction": "Satisfaction", "certs": "Certificates Issued"
+  },
+  "catalog": {
+    "badge": "Catalog", "title": "Available courses",
+    "desc": "Explore our library with 27 free courses covering the main areas of the digital market.",
+    "seeAll": "See all courses", "lessons": "lessons"
+  },
+  "features": {
+    "badge": "Why choose EduLivre",
+    "title": "Everything you need to learn"
+  },
+  "about": {
+    "badge": "Extension Project",
+    "title": "Education as a tool for social transformation",
+    "p1": "EduLivre was born from the need to democratize access to technology education in Brazil. As a university extension project, our mission is to connect students from all regions to digital knowledge that transforms careers and lives.",
+    "p2": "With active methodology and up-to-date content, we seek to reduce educational inequalities and prepare professionals for the constantly evolving digital market.",
+    "check1": "100% free access for all students",
+    "check2": "Content validated by market experts",
+    "check3": "Recognized digital certificates",
+    "check4": "Active and collaborative community support"
+  },
+  "testimonials": { "badge": "Testimonials", "title": "What our students say" },
+  "cta": {
+    "title": "Ready to transform your career?",
+    "desc": "Join over 2,400 students already learning with EduLivre. Create your account for free and start today.",
+    "btn1": "Create free account", "btn2": "I already have an account"
+  },
+  "footer": {
+    "desc": "University Extension Project — Democratizing Digital Education",
+    "rights": "All rights reserved."
+  },
+  "topbar": {
+    "greeting": "Hello", "greetMsg": "— Happy learning today! 🚀",
+    "notifications": "Notifications", "markAll": "Mark all read",
+    "noNotifs": "No notifications", "myProfile": "My Profile", "logout": "Sign out"
+  },
+  "student": {
+    "nav": {
+      "home": "Home", "courses": "My Courses", "lessons": "Lessons",
+      "progress": "Progress", "favorites": "Favorites", "agenda": "Agenda",
+      "forum": "Forum", "certificates": "Certificates", "profile": "Profile"
+    },
+    "area": "Student Area",
+    "dashboard": {
+      "title": "Dashboard", "welcome": "Welcome back",
+      "continueLearning": "Continue Learning",
+      "myProgress": "My Progress", "recentActivity": "Recent Activity",
+      "enrolledCourses": "Enrolled Courses", "completedCourses": "Completed Courses",
+      "certificates": "Certificates", "studyStreak": "Study Streak",
+      "days": "days", "hours": "hours studied", "noActivity": "No recent activity"
+    },
+    "courses": {
+      "title": "My Courses", "all": "All", "inProgress": "In Progress",
+      "completed": "Completed", "noCourses": "No courses found",
+      "explore": "Explore courses", "continue": "Continue", "start": "Start",
+      "completed_label": "Completed", "progress": "progress"
+    },
+    "lessons": {
+      "title": "Lessons", "selectCourse": "Select a course",
+      "downloadSummary": "Download Summary", "markComplete": "Mark as complete",
+      "completed": "Completed", "noLesson": "Select a lesson to start"
+    },
+    "certificates": {
+      "title": "My Certificates", "download": "Download Certificate",
+      "noCerts": "No certificates yet", "completeCourse": "Complete a course to earn your certificate",
+      "issued": "Issued on", "workload": "Workload"
+    },
+    "profile": {
+      "title": "My Profile", "editProfile": "Edit Profile",
+      "name": "Full name", "email": "E-mail", "save": "Save changes"
+    }
+  },
+  "teacher": {
+    "nav": {
+      "dashboard": "Dashboard", "addCourse": "Add Course",
+      "manage": "Manage Courses", "materials": "Upload Materials",
+      "students": "View Students", "reports": "Reports", "profile": "Profile"
+    },
+    "area": "Teacher Panel",
+    "dashboard": {
+      "title": "Dashboard", "totalStudents": "Total Students",
+      "activeCourses": "Active Courses", "totalRevenue": "Average Rating",
+      "completionRate": "Completion Rate", "recentActivity": "Recent Activity"
+    },
+    "courses": {
+      "title": "Manage Courses", "addNew": "Add New",
+      "edit": "Edit", "delete": "Delete", "noCourses": "No courses registered"
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign in to the platform", "loginSub": "Access your student or teacher account",
+    "email": "E-mail", "password": "Password", "forgotPassword": "Forgot password",
+    "loginBtn": "Sign in", "noAccount": "Don't have an account?", "createFree": "Create free account",
+    "registerTitle": "Create free account", "registerSub": "Start your learning journey",
+    "name": "Full name", "confirmPassword": "Confirm password",
+    "role": "I am a", "student": "Student", "teacher": "Teacher",
+    "registerBtn": "Create account", "hasAccount": "Already have an account?", "loginLink": "Sign in",
+    "backHome": "Back to home"
+  },
+  "theme": { "light": "Light mode", "dark": "Dark mode" },
+  "lang": { "toggle": "Mudar para Português" }
+}
