@@ -6,6 +6,9 @@
 const _u = import.meta.env.VITE_API_URL
 const BASE_URL = (_u && _u.trim()) ? _u.trim() : null
 
+console.log("VITE_API_URL =", import.meta.env.VITE_API_URL)
+console.log("BASE_URL =", BASE_URL)
+
 let _token = localStorage.getItem('edulivre_api_token') || null
 
 export function setToken(token) {
